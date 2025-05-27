@@ -3,7 +3,6 @@ using namespace std;
 
 void swap_values(int a, int b)
 { // 형식매개변수(형식인자)
-
     int temp;
     temp = a;
     a = b;

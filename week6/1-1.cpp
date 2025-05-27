@@ -43,4 +43,6 @@ int main()
 
     // 동적할당
     Circle *pArray = new Circle[n];
+
+    delete[] pArray;
 }

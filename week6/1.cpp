@@ -57,7 +57,6 @@ int main()
     for (int i = 0; i < n; i++)
     {
         cout << p->getArea() << endl;
-
         // 주소값을 증가시키는 것
         p++;
     }
